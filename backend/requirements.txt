@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+deepface
+opencv-python
+numpy
+pydantic
+sqlalchemy
+scikit-learn
+python-multipart
